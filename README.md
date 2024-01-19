@@ -1,2 +1,2 @@
 # GenieHub_Work
-Repository for everyday tasks
+Repository for geniehub's everyday tasks
