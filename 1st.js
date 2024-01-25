@@ -306,8 +306,13 @@ let nums = [12,13,14,15,16];
 
 //DOOOOOOOOOOMMMMMMMM ------ basic 
 //console.log(window);                  // All info about window.
-  
-alert("bhailog");
+//alert("bhailog");
+
+/*let h2 = document.querySelector("h2");
+console.dir(h2.innerText);
+h2.innerText += " from SGSITS";*/
+ 
+let divs = document.querySelector(".box");
 
 
 
